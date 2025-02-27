@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Shiyun Xiong"
 description              : "Undergraduate student at Harbin Institute of Technology, focusing on NLP and LLM research "
-repository               : "https://christinexc.github.io/shiyunxiong"
+repository               : "christinexc/shiyunxiong"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xX2-CUYAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "christine_shiyunx@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
