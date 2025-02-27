@@ -3,16 +3,12 @@ main:
   - title: "About Me"
 
   - title: "Publications"
-    url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
   - title: "Experience"
-    url: "/#-experience"
 
   - title: "Services"
-    url: "/#-services"
 
   - title: "CV"
-    url: "pages/cv.pdf"
+    url: "_pages/CV_shiyun"
