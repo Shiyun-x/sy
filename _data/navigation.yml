@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: ""
 
   - title: "Publications"
     url: "/#-publications"
@@ -14,3 +14,6 @@ main:
 
   - title: "Services"
     url: "/#-services"
+
+  - title: "CV"
+    url: ""
