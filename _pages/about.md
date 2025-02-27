@@ -19,17 +19,26 @@ redirect_from:
 
 I am a senior student majoring in Software Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/). Currently, I am a Research Assistant at [National University of Singapore](https://www.nus.edu.sg/). Previously, I worked with [Yue Feng](https://fengyue-leah.github.io/) during my visit to the [University of Birmingham](https://www.birmingham.ac.uk/). My research interests include LLM, Multimodal Models, and LLM-driven Agent Frameworks.
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://openreview.net/pdf?id=jR6YMxVG9i),Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi, **Preprint**
 - [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation](https://ieeexplore.ieee.org/abstract/document/10707522), B. Zhang, **S. Xiong**, D. Sui, Y. Xu, Z. Tu and D. Chu, **2024 IEEE International Conference on Web Services (ICWS)**
 
+<span class='anchor' id='experience'></span>
 # 🧑‍💻 Experience
 - *2024.04 - Now*, Research Intern, Institute of Data Science/School of Computing, National University of Singapore.
 - *2024.09 - 2024.12*, Research Visitor, School of Computer Science, University of Birmingham.
 - *2023.10 - 2024.4*, Research Intern, Research Center of Intelligent Computing for Enterprises & Services, Harbin Institute of Technology.
-  
+
+  <span class='anchor' id='honors_and_awards'></span>
 # 🎖️ Honors and Awards
 - *2021-2024*, The People’s Scholarship in China
+- *2023.09*, Provincial Pirst Prize, China Undergraduate Mathematical Contest in Model (CUMCM)
 
+<span class='anchor' id='skills'></span>
+# ⚙️ Skills:
+- C/C++, Java, Python, Pytorch, SQL, Selenium, Android Studio, etc.
+
+<span class='anchor' id='services'></span>
 # 💼 Services
 - *2025*, Reviewer: ICLR 2025 Workshop LLM Reason and Plan
