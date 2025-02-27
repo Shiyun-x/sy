@@ -19,13 +19,11 @@ redirect_from:
 
 I am a senior student majoring in Software Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/). Currently, I am a Research Assistant at [National University of Singapore](https://www.nus.edu.sg/). Previously, I worked with [Yue Feng](https://fengyue-leah.github.io/) during my visit to the [University of Birmingham](https://www.birmingham.ac.uk/). My research interests include LLM, Multimodal Models, and LLM-driven Agent Frameworks.
 
-
 # 📝 Publications 
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://openreview.net/pdf?id=jR6YMxVG9i),Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi, **Preprint**
-- [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation]([https://github.com](https://ieeexplore.ieee.org/abstract/document/10707522)), B. Zhang, S. Xiong, D. Sui, Y. Xu, Z. Tu and D. Chu, **2024 IEEE International Conference on Web Services (ICWS)**
+- [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation](https://ieeexplore.ieee.org/abstract/document/10707522), B. Zhang, **S. Xiong**, D. Sui, Y. Xu, Z. Tu and D. Chu, **2024 IEEE International Conference on Web Services (ICWS)**
 
 # 🧑‍💻 Experience
-- *2021.08 - Now*, Undergraduate Student, Harbin Institute of Technology(Weihai).
 - *2024.04 - Now*, Research Intern, Institute of Data Science/School of Computing, National University of Singapore.
 - *2024.09 - 2024.12*, Research Visitor, School of Computer Science, University of Birmingham.
 - *2023.10 - 2024.4*, Research Intern, Research Center of Intelligent Computing for Enterprises & Services, Harbin Institute of Technology.
