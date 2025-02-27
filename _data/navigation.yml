@@ -7,12 +7,17 @@ main:
     url: "/#publications"
 
   - title: "Honors and Awards"
+    url: "/#honors_and_awards"
 
   - title: "Experience"
+    url: "/#experience"
 
   - title: "Services"
+    url: "/#services"
 
   - title: "Skill"
+    url: "/#skill"
+
 
   - title: "CV"
     url: "_pages/CV_shiyun.pdf"
