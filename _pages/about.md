@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a senior student majoring in Software Engineering at [Harbin Institute of Technology](http://en.hit.edu.cn/). Currently, I am a Research Assistant at [National University of Singapore](https://www.nus.edu.sg/). Previously, I worked with [Yue Feng](https://fengyue-leah.github.io/) during my visit to the [University of Birmingham](https://www.birmingham.ac.uk/). My research interests include LLM, Multimodal Models, and LLM-driven Agent Frameworks.
+Download my **CV** <a href="_pages/CV_shiyun.pdf"> here.
 
 
 <span class='anchor' id='publications'></span>
