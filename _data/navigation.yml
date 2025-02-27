@@ -2,13 +2,17 @@
 main:
   - title: "About Me"
 
+
   - title: "Publications"
+    id: "publications"
 
   - title: "Honors and Awards"
 
   - title: "Experience"
 
   - title: "Services"
+
+  - title: "Skill"
 
   - title: "CV"
     url: "_pages/CV_shiyun.pdf"
