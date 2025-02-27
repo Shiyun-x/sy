@@ -33,16 +33,15 @@ Please download my **CV** <a href="_pages/CV_shiyun.pdf"> here.
 - *2024.09 - 2024.12*, Research Visitor, School of Computer Science, University of Birmingham.
 - *2023.10 - 2024.4*, Research Intern, Research Center of Intelligent Computing for Enterprises & Services, Harbin Institute of Technology.
 
+<span class='anchor' id='services'></span>
+# 💼 Services
+- *2025*, Reviewer: ICLR 2025 Workshop LLM Reason and Plan
+  
 
 <span class='anchor' id='honors_and_awards'></span>
 # 🎖️ Honors and Awards
 - *2021-2024*, The People’s Scholarship in China
 - *2023.09*, Provincial Pirst Prize, China Undergraduate Mathematical Contest in Model (CUMCM)
-
-
-<span class='anchor' id='services'></span>
-# 💼 Services
-- *2025*, Reviewer: ICLR 2025 Workshop LLM Reason and Plan
 
 
 <span class='anchor' id='skills'></span>
