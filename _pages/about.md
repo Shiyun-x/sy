@@ -38,7 +38,7 @@ Please download my **CV** <a href="_pages/CV_shiyun.pdf"> here.
 - *2025*, Reviewer: ICLR 2025 Workshop LLM Reason and Plan, ACL ARR 2025 February
   
 
-<span class='anchor' id='honors_and_awards'></span>
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖️ Honors and Awards
 - *2021-2024*, The People’s Scholarship in China
 - *2023.09*, Provincial Pirst Prize, China Undergraduate Mathematical Contest in Model (CUMCM)
