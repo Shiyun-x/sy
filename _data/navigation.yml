@@ -15,8 +15,8 @@ main:
   - title: "Services"
     url: "/#services"
     
-  - title: "Skill"
-    url: "/#skill"
+  - title: "Skills"
+    url: "/#skills"
 
   - title: "CV"
     url: "_pages/CV_shiyun.pdf"
