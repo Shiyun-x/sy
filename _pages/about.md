@@ -23,7 +23,7 @@ Please download my **CV** <a href="_pages/CV_shiyun.pdf"> here.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
-- [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://openreview.net/pdf?id=jR6YMxVG9i),Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi, **Preprint**
+- [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://arxiv.org/abs/2504.16073),Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi, **Preprint**
 - [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation](https://ieeexplore.ieee.org/abstract/document/10707522), B. Zhang, **S. Xiong**, D. Sui, Y. Xu, Z. Tu and D. Chu, **2024 IEEE International Conference on Web Services (ICWS)**
 
 
@@ -35,7 +35,7 @@ Please download my **CV** <a href="_pages/CV_shiyun.pdf"> here.
 
 <span class='anchor' id='services'></span>
 # 💼 Services
-- *2025*, Reviewer: ICLR 2025 Workshop LLM Reason and Plan
+- *2025*, Reviewer: ICLR 2025 Workshop LLM Reason and Plan, ACL ARR 2025 February
   
 
 <span class='anchor' id='honors_and_awards'></span>
