@@ -25,7 +25,7 @@ Please download my **CV** <a href="_pages/CV_shiyun.pdf"> here.
 # 📝 Publications 
 - [Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation](https://arxiv.org/abs/2504.16073),Zhiyuan Hu, **Shiyun Xiong**, Yifan Zhang, See-Kiong Ng, Anh Tuan Luu, Bo An, YAN Shuicheng, Bryan Hooi, **Preprint**
 - [RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation](https://ieeexplore.ieee.org/abstract/document/10707522), B. Zhang, **S. Xiong**, D. Sui, Y. Xu, Z. Tu and D. Chu, **2024 IEEE International Conference on Web Services (ICWS)**
-
+- [User-Oriented Fuzzy Requirement Clarification for Services Delivery in the Metaverse], Bolin Zhang, Dianhui Chu(Member, IEEE), **Shiyun Xiong**, Qianjun Gong, and Zhiying Tu(Member, IEEE), **Submitted to IEEE TRANSACTIONS ON SERVICES COMPUTING, 2025**
 
 <span class='anchor' id='experience'></span>
 # 🧑‍💻 Experience
