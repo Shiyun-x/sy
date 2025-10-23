@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a Research Assistant at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html), working with [Prof. Xiangyu Yue](https://xyue.io/). I graduated with a degree in Software Engineering from [Harbin Institute of Technology](http://en.hit.edu.cn/). Previously, I worked with Prof. [Prof. Yue Feng](https://fengyue-leah.github.io/) during my research visit to the [University of Birmingham](https://www.birmingham.ac.uk/). My research interests include Large Language Models (LLMs), Multimodal Models, and LLM-driven Agent Frameworks. Please download **CV** <a href="_pages/CV_shiyun.pdf"> here.
+Currently, I am a Research Assistant at the [Multimedia Laboratory (MMLab)](https://mmlab.ie.cuhk.edu.hk/), The Chinese University of Hong Kong (CUHK), working with [Prof. Xiangyu Yue](https://xyue.io/). I received my Bachelor's degree in Software Engineering from the Harbin Institute of Technology, advised by [Prof. Zhiying Tu](https://homepage.hit.edu.cn/tzy). Previously, I worked with Prof. [Prof. Yue Feng](https://fengyue-leah.github.io/) during my research visit to the University of Birmingham. My research interests include Large Language Models (LLMs), Multimodal Models, and LLM-driven Agent Frameworks. 
 
 
 <span class='anchor' id='publications'></span>
@@ -29,7 +29,7 @@ Currently, I am a Research Assistant at the [Multimedia Laboratory (MMLab)](http
 
 <span class='anchor' id='experience'></span>
 # 🧑‍💻 Experience
-- *2025.08 - Now*, Research assistance, Multimedia Laboratory, The Chinese University of Hong Kong.
+- *2025.08 - Now*, Research Assistant, Multimedia Laboratory, The Chinese University of Hong Kong.
 - *2024.04 - 2025.08*, Research Intern, Institute of Data Science/School of Computing, National University of Singapore.
 - *2024.09 - 2024.12*, Research Visitor, School of Computer Science, University of Birmingham.
 - *2023.10 - 2024.4*, Research Intern, Research Center of Intelligent Computing for Enterprises & Services, Harbin Institute of Technology.
